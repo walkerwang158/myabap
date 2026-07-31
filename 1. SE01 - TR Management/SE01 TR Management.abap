@@ -1,4 +1,3 @@
-```abap
 *& Report ZSE01
 *& Description 请求管理
 *&---------------------------------------------------------------------*
@@ -987,4 +986,3 @@ FORM frm_check_trkorr  USING    pv_obj_name
   ENDIF.
 
 ENDFORM.
-```
